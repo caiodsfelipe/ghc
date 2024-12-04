@@ -9,6 +9,7 @@ Abram o XAMPP e inicializem o Apache e o MySQL
 
 
 Agora basta colocar http://localhost/ghc/wp-admin no navegador para acessar o painel do WordPress
+
 No login, tentem:
 
 usuário: caiodsfelipe
